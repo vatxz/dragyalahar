@@ -1,0 +1,80 @@
+[
+    {
+        "path": "vasp_ab/flag_0.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_1.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_2.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 3
+    },
+    {
+        "path": "vasp_ab/flag_3.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_4.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_5.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_6.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_7.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 2
+    },
+    {
+        "path": "vasp_ab/flag_8.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 5
+    },
+    {
+        "path": "vasp_ab/flag_9.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 3
+    },
+    {
+        "path": "vasp_ab/flag_10.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 5
+    },
+    {
+        "path": "vasp_ab/flag_13.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 5
+    },
+    {
+        "path": "vasp_ab/flag_12.png",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 5
+    }
+]
